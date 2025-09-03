@@ -15,3 +15,7 @@ for _ in range(length):
 
 # Print the final password
 print("Password:", password)
+
+# Example
+How long should the password be? 8
+Password: vRQo&KhQ
